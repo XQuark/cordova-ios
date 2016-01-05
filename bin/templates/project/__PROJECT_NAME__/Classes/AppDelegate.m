@@ -27,6 +27,7 @@
 
 #import "AppDelegate.h"
 #import "MainViewController.h"
+#import "TestViewController.h"
 
 @implementation AppDelegate
 
