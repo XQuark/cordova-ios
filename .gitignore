@@ -7,3 +7,6 @@ tmp
 xcuserdata
 console.log
 /node_modules
+bin/templates/project/__CLI__.xcodeproj/project.xcworkspace
+bin/templates/project/__NON-CLI__.xcodeproj/project.xcworkspace
+CordovaLib/CordovaLib.xcodeproj/project.xcworkspace
